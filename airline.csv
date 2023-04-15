@@ -1,0 +1,11 @@
+﻿Airline Name,From,To,Date,Time,Price (INR)
+IndiGo,Delhi (DEL),Mumbai (BOM),01/05/23,8:00,5000
+Air India,Mumbai (BOM),Kolkata (CCU),02/05/23,14:30,5500
+SpiceJet,Chennai (MAA),Hyderabad (HYD),03/05/23,12:45,4000
+GoAir,Bengaluru (BLR),New Delhi (DEL),04/05/23,10:15,4500
+Vistara,Kolkata (CCU),Mumbai (BOM),05/05/23,16:20,5500
+AirAsia India,Hyderabad (HYD),Chennai (MAA),06/05/23,9:30,3500
+Air India Express,Kochi (COK),Abu Dhabi (AUH),07/05/23,18:55,7000
+GoAir,Mumbai (BOM),Bengaluru (BLR),08/05/23,7:30,4000
+SpiceJet,Delhi (DEL),Pune (PNQ),09/05/23,23:45,4500
+IndiGo,Chennai (MAA),Kolkata (CCU),10/05/23,13:10,5000
